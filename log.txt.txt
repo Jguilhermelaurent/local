@@ -1,0 +1,5 @@
+eu sou um texto de log
+
+
+
+porque eu preciso monitorar todo o sistema
