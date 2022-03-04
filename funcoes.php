@@ -11,3 +11,11 @@ function branch teste(){
 
 
 }
+
+
+function  branch funcao2{
+
+
+	return false;
+
+}
