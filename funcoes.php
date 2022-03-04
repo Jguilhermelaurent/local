@@ -13,7 +13,7 @@ function branch teste(){
 }
 
 
-function  branch funcao2{
+function  branch funcao2 ($num<=0){
 
 
 	return false;
